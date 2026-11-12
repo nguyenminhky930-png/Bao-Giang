@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Báo Giảng Tiểu Học 2026-2027",
+  "description": "Ứng dụng soạn lịch báo giảng hàng tuần năm học 2026-2027 theo kế hoạch dạy học Tiếng Anh 3, 4, 5 Global Success với tính năng tùy chỉnh phân phối chương trình và xuất PDF, Word, Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
